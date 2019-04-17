@@ -14,3 +14,4 @@
 - [ ] [Optimally Weighted PCA for High-Dimensional Heteroscedastic Data](https://arxiv.org/abs/1810.12862)
 - [ ] [Best of many worlds: Robust model selection for online supervised learning](https://arxiv.org/abs/1805.08562)
 - [ ] [A Backtesting Protocol in the Era of Machine Learning](https://faculty.fuqua.duke.edu/~charvey/Research/Published_Papers/SSRN-id3275654.pdf)
+- [ ] [Kolmogorov superposition theorem and its applications](https://spiral.imperial.ac.uk/handle/10044/1/30762)
