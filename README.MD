@@ -21,5 +21,5 @@
 - [ ] [Non-Linear Temporal Subspace Representations for Activity Recognition](https://arxiv.org/pdf/1803.11064.pdf)
 - [ ] [Directional Statistics in Machine Learning: a Brief Review](http://suvrit.de/papers/sra_dirchap.pdf)
 - [ ] [Inequalities via symmetric polynomial majorization](http://suvrit.de/papers/emonotone.pdf)
-- [ ] [R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate](hhttps://arxiv.org/pdf/1811.04194.pdf)
+- [ ] [R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate](https://arxiv.org/pdf/1811.04194.pdf)
 - [ ] [Riemannian Frank-Wolfe with application to the geometric mean of positive definite matrices](https://arxiv.org/pdf/1710.10770.pdf)
