@@ -23,3 +23,6 @@
 - [ ] [Inequalities via symmetric polynomial majorization](http://suvrit.de/papers/emonotone.pdf)
 - [ ] [R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate](https://arxiv.org/pdf/1811.04194.pdf)
 - [ ] [Riemannian Frank-Wolfe with application to the geometric mean of positive definite matrices](https://arxiv.org/pdf/1710.10770.pdf)
+- [ ] [Statistical Theory Through Differential Geometry](https://scholarship.claremont.edu/cmc_theses/2181/)
+- [ ] [Splitting Method with Adaptive Step-Size](https://link.springer.com/chapter/10.1007/978-3-030-22629-9_4)
+- [ ] [A lecture notes about statistical + differential geometry](http://www2.stat.duke.edu/~sayan/CBMS/Mukherjee/)
